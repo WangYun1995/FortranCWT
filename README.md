@@ -1,2 +1,2 @@
-# ForCWT
-A package for fast computation of the Continuous Wavelet Transforms written in Fortran
+# FortranCWT
+A Fortran package for fast computation of the Continuous Wavelet Transform of the 1D signals.
