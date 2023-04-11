@@ -7,7 +7,8 @@ If you use our codes or your research is related to our paper, please kindly cit
 
 ## Tutorial:
 
-Our codes can be used to process 1D signals with periodic boundary conditions as well as zero boundary conditions. In our codes, four types of wavelets are available, namely the cubic B-spline wavelet (CBSW), the Gaussian-derived wavelet (GDW), the cosine-weighted Gaussian-derived wavelet (CW-GDW), and the Morlet wavelet (MW). The former three wavelets are real valued and the last one is complex valued.
+Our codes can be used to process 1D signals with periodic boundary conditions as well as zero boundary conditions. In our codes, four types of wavelets are available, namely the cubic B-spline wavelet (CBSW), the Gaussian-derived wavelet (GDW), the cosine-weighted Gaussian-derived wavelet (CW-GDW), and the Morlet wavelet (MW). The former three wavelets are real valued and the last one is complex valued, which are shown in the figure below.
+<div align=left><img width="800" height="390" src="https://github.com/WangYun1995/FortranCWT/blob/main/figures/wavelets.png"/>
 
 - The module ```FFTCWT.f95``` contains two subroutines, the ```rFFTCWT_periodbc```, and the ```cFFTCWT_periodbc```.
 - The module ```V97CWT.f95``` contains two subroutines, the ```rV97CWT_periodbc```, and the ```cV97CWT_periodbc```.
