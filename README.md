@@ -29,7 +29,7 @@ Subroutines with the prefix ```r``` will output three arguments, which are
 - ```Nscales```, type: integer, the number of scale parameters, which satisfies ```Nscales```=```Nlevs*Nsubs```.
 - ```CWT```, type: real(kind=8), dimension: (Nscales,Nmesh), the CWT of the signal, which is a 2D array.
 
-Subroutines with the prefix ```c``` will output three arguments, which are
+Subroutines with the prefix ```c``` will output four arguments, which are
 - ```scales```, type: real(kind=8), the 1D array contains all scale parameters.
 - ```Nscales```, type: integer, the number of scale parameters, which satisfies ```Nscales```=```Nlevs*Nsubs```.
 - ```realCWT```, type: real(kind=8), dimension: (Nscales,Nmesh), the real part of the CWT, which is a 2D array.
