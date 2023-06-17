@@ -4,21 +4,16 @@
 If you use our codes or your research is related to our paper, please kindly cite the following paper, in which the fast CWT algorithms are reviewed and compared.
 
 ``` bib
-@ARTICLE{Wang2023,
-       author = {{Wang}, Yun and {He}, Ping},
-        title = "{Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: the one-dimensional case}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Physics - Computational Physics},
-         year = 2023,
-        month = feb,
-          eid = {arXiv:2302.03909},
-        pages = {arXiv:2302.03909},
-          doi = {10.48550/arXiv.2302.03909},
-archivePrefix = {arXiv},
-       eprint = {2302.03909},
- primaryClass = {astro-ph.IM},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230203909W},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{Wang2023,
+    author = {{Wang}, Yun and {He}, Ping},
+    title = "{Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: The one-dimensional case}",
+    journal = {RAS Techniques and Instruments},
+    year = {2023},
+    month = {06},
+    doi = {10.1093/rasti/rzad020},
+    url = {https://doi.org/10.1093/rasti/rzad020},
+    note = {rzad020},
+    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzad020/50599483/rzad020.pdf},
 }
 ```
 
