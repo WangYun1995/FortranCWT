@@ -5,15 +5,18 @@ If you use our codes or your research is related to our paper, please kindly cit
 
 ``` bib
 @article{Wang2023,
-    author = {{Wang}, Yun and {He}, Ping},
-    title = "{Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: The one-dimensional case}",
+    author = {Wang, Yun and He, Ping},
+    title = "{Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: the 1D case}",
     journal = {RAS Techniques and Instruments},
+    volume = {2},
+    number = {1},
+    pages = {307-323},
     year = {2023},
     month = {06},
+    issn = {2752-8200},
     doi = {10.1093/rasti/rzad020},
     url = {https://doi.org/10.1093/rasti/rzad020},
-    note = {rzad020},
-    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzad020/50599483/rzad020.pdf},
+    eprint = {https://academic.oup.com/rasti/advance-article-pdf/doi/10.1093/rasti/rzad020/50722942/rzad020.pdf},
 }
 ```
 
